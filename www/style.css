@@ -1,0 +1,31 @@
+body
+{
+	background-color: #800000; 
+	font-family: Georgia;
+	font-size: 25px;
+	color: black;
+}
+
+h1
+{
+	font-size: 50px;
+	color: black !important;
+}
+
+/* Nieodwiedzony link */
+a:link
+{
+	color: yellow;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color:yellow;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{
+	color: red;
+}
